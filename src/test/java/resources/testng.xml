@@ -1,0 +1,7 @@
+<suite name="Demoblaze Test Suite">
+    <test name="Home Page Tests">
+        <classes>
+            <class name="tests.HomePageTests"/>
+        </classes>
+    </test>
+</suite>
