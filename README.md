@@ -1,6 +1,6 @@
 DemoBlaze Test Otomasyon Projesi
 
-Bu proje, DemoBlaze web sitesinin işlevselliğini ve güvenilirliğini test etmek için otomasyon testleri içerir. Testler, JUnit, TestNG ve Selenium WebDriver kullanılarak yazılmıştır ve çeşitli kullanıcı senaryolarını kapsamaktadır.
+DemoBlaze web sitesinin işlevselliğini ve güvenilirliğini test etmek için otomasyon testleri içerir. Testler, JUnit, TestNG ve Selenium WebDriver kullanılarak yazılmıştır ve çeşitli kullanıcı senaryolarını kapsamaktadır.
 
 🚀 Kullanılan Teknolojiler
   JUnit: Test senaryolarını yazmak ve çalıştırmak için.
